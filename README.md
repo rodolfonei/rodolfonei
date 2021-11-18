@@ -6,7 +6,7 @@ Welcome! My name is Rodolfo, and I am a software developer from Brazil
 
 - Currently working full-time as a Fullstack Developer on a Hospital Information System development team
 - Volunteer developer at [Enciv](https://github.com/EnCiv)
-- I'm currently learning ReactJS, AWS and Test Automation
+- Learning ReactJS, AWS and Test Automation
 - I'm looking to collaborate on open-source projects that have social impact and are related to public interests
 
 ### Skills
@@ -18,7 +18,7 @@ Welcome! My name is Rodolfo, and I am a software developer from Brazil
 - SQL
 - C
 
-### Connect with me
+### Connect with me (open to new job opportunities)
 
 - [LinkedIn](https://www.linkedin.com/in/rodolfonei/)
 - [Gmail](mailto:rodolfonei.webdev@gmail.com)
