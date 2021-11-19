@@ -11,11 +11,11 @@ Welcome! My name is Rodolfo, and I am a software developer from Brazil
 
 ### Skills
 
-- PHP
-- Python
-- JavaScript
-- HTML5/CSS3
-- SQL
+- PHP (Yii2, Laravel)
+- Python (Django)
+- JavaScript (VueJS, JQuery)
+- HTML/CSS
+- SQL (PostgreSQL, MySQL)
 - C
 
 ### Connect with me (open to new job opportunities)
