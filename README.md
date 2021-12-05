@@ -13,7 +13,7 @@ Welcome! My name is Rodolfo, and I am a software developer from Brazil
 
 - PHP (Yii2, Laravel)
 - Python (Django)
-- JavaScript (VueJS, JQuery)
+- JavaScript (ReactJS, VueJS, jQuery)
 - HTML/CSS
 - SQL (PostgreSQL, MySQL)
 - C
